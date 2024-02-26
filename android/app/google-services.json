@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438661247426",
+    "project_id": "zagelgp",
+    "storage_bucket": "zagelgp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438661247426:android:6ea9a9b9ab44638041e65b",
+        "android_client_info": {
+          "package_name": "com.example.zagel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YJEb0wttCB_DzYxgS2jE5FxS_VQ_W_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
